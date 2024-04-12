@@ -1,0 +1,23 @@
+{
+  "name": "backend-express",
+  "version": "1.0.0",
+  "description": "backend-express",
+  "main": "app.js",
+  "scripts": {
+    "test": "MIT",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VanDucTan/backend-express.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "VanDucTan ductan.dk2006@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VanDucTan/backend-express/issues"
+  },
+  "homepage": "https://github.com/VanDucTan/backend-express#readme"
+}
